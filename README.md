@@ -13,7 +13,7 @@ Projects:
 
 1.  Data Analysis  
      Project01:<br>
-     Project02:Electric-Vehicles | [View Project](./https://github.com/EroshBc/Data_Analysis_Electric-Vehicles.git)<br> 
+     Project02:Electric-Vehicles | [View Project](https://github.com/EroshBc/Data_Analysis_Electric-Vehicles.git)<br> 
     
 3.  Machine Leraning<br>
      Project01:<br>
