@@ -16,11 +16,11 @@ Projects:
      Project02:Electric-Vehicles | [View Project](https://github.com/EroshBc/Data_Analysis_Electric-Vehicles.git)<br> 
     
 3.  Machine Leraning<br>
-     Project01:<br> Sinhala-Handwritten | [View Project](https://github.com/EroshBc/sinhala_handwritten)
-     Project02:<br> 
+     Project01: Sinhala-Handwritten | [View Project](https://github.com/EroshBc/sinhala_handwritten)
+      
 4.  Data Visualization<br>
-     Project01:<br>Data Visualization |[View Project](https://github.com/EroshBc/data_analysis_Python)
-     Project02:<br>       
+     Project01: Data Visualization |[View Project](https://github.com/EroshBc/data_analysis_Python)
+           
 7.  Deep Learning<br>
-     Project01:<br> Facial-Recognition | [View project](https://github.com/EroshBc/DataSceince/tree/main)
+     Project01: Facial-Recognition | [View project](https://github.com/EroshBc/DataSceince/tree/main)
      
