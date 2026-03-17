@@ -12,7 +12,7 @@ I bring 15+ years of operational experience from the front lines of the Aviation
 Projects:
 
 1.  Data Analysis  
-     Project01: Sales-Superstore | [View Project](https://github.com/EroshBc/Data_Analysis_Sales_Superstore)
+     Project01: Sales-Superstore | [View Project](https://github.com/EroshBc/Data_Analysis_Sales_Superstore)<br>
      Project02:Electric-Vehicles | [View Project](https://github.com/EroshBc/Data_Analysis_Electric-Vehicles.git)<br> 
     
 3.  Machine Leraning<br>
