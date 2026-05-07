@@ -5,7 +5,7 @@ Hi, I’m Erosh Boralugodage. I am a recent graduate in Computing Technologies w
 
 I bring 15+ years of operational experience from the front lines of the Aviation and Hospitality industries (United/Delta, Chick-fil-A) to the world of data science. My career has been built on understanding human behavior and operational efficiency; my code is built on turning those observations into actionable business growth.<br>
 
-.  Currently focusing on  : Predictive modeling for customer retention and growth analytics.<br>
+.  Currently focusing on  : Predictive modeling for customer retention and growth analytics and Data analysis.<br>
 .  Skills                 : Machine Learning, Data analysis, Data Visualization<br>
 .  Tools                  : Pyhton(Pandas, Scikit-Learn,Numpy), SQL, Tableau<br>
 
