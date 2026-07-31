@@ -1,4 +1,4 @@
-# data-science-portfolio
+# Data-Science-Portfolio
 
 Welcome to my portfolio!<br><br>
 Hi, I’m Erosh Boralugodage. I am a recent graduate in Computing Technologies with a passion for transforming complex, real-world data into actionable insights.
